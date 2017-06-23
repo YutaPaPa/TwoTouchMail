@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TwoTouchMail</string>
+    <string name="button_send">メールアプリ起動</string>
+    <string name="subject">件名</string>
+    <string name="mailTo">送信先</string>
+    <string name="docomo">ドコモ</string>
+    <string name="yahoo">Yahoo</string>
+    <string name="gmail">Gmail</string>
+    <string name="mail_to_docomo">gumsuke-nyaon4.0kg@docomo.ne.jp</string>
+    <string name="mail_to_yahoo">gumsuke_nyaon@yahoo.co.jp</string>
+    <string name="mail_to_gmail"></string>
+</resources>
